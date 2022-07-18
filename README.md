@@ -9,7 +9,7 @@
 ```sh
 pip install pygame
 ```
-##Control keys:
+## Control keys:
 | **KEY**    | **ACTION**             |
 |------------|------------------------|
 | Down       | Drop stone faster      |
